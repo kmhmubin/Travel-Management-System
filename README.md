@@ -15,6 +15,10 @@ Travel Management system is a powerful software which is based on Java. This pro
 **Customer Receipt :** It will give the customer a printable receipt and print all the information about the traveling and show the total cost with tax. Every Customer have unique id on  the receipt. 
 Beside there are some other some function like calculate the tax , total price. This program is easy to use for anyone and also have a eyecatching looking interface.
 
+# Technologies:
+* Netbean
+* java8
+
 # UI Demo 
 ![Demo1](https://i.imgur.com/7QJUbYn.png)
 ![Demo2](https://i.imgur.com/RbJt1Hx.png)
